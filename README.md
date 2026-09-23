@@ -23,7 +23,7 @@
 **Mobile** — React Native, Expo, native modules, Play Store releases  
 **Backend** — Node, Hono, Postgres, REST APIs, auth and token verification  
 **Web** — Next.js, React, Tailwind, server components  
-**Infrastructure** — Railway, Vercel, Cloudinary, Firebase
+**Infrastructure** — Railway, Vercel, Cloudinary, Firebase, Cloudflare, AWS
 
 <br/>
 
